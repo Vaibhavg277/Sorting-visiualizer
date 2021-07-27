@@ -4,7 +4,7 @@
   "description": "- Bubble Sort \r - Selection Sort\r - Insertion Sort\r - Quick Sort\r - Merge Sort",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d RESUME_SVISUALIZER"
+    "deploy": "gh-pages -d js_files"
   },
   "keywords": [],
   "author": "",
